@@ -240,6 +240,8 @@ header.masthead {
   text-align: left; }
 .portfolio-modal .modal-dialog .modal-content .item-details {
   margin: 30px 0; }
+.portfolio-modal .modal-dialog .modal-content .item-details li p {
+  text-align: center;}
 
 .portfolio-modal .close-modal {
   position: absolute;
